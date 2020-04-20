@@ -1,8 +1,8 @@
-12 
-500 0.1 0.05
+12 #(NUMBER of DATA SETS)
+500 0.1 0.05 # Number ofIterations, alphaValue, concentrationForFreeEnergyProfile
 
-77 10 10 250.202
-0 1 5.10207958408317 0.0684966078645
+77 10 10 250.202 #  #ofDataPointsFromTraj1 #ofAMoleculesTotal #ofBMoleculesTotal Volume
+0 1 5.10207958408317 0.0684966078645   # #ofAMolecules  #ofBMolecules  #_frequencyAverage_of_NANB_cluster  STDV_in_#frequencyAverage_of_NANB_cluster
 1 0 2.07531874577466 0.162062806152
 1 1 1.35018686738844 0.0907249350638
 1 2 0.321353586425573 0.0438097806159
